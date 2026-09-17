@@ -17,9 +17,9 @@ I enjoy building practical labs, investigating how systems work, and documenting
 
 ## 🗂️ Featured projects
 
+- [AI Codex Local CTF](https://github.com/viktor-cyber-tech/aicodex-local-ctf) — An educational local-AI helper workflow for authorized CTF learning.
 - [Microsoft Sentinel & Entra ID Detection Lab](https://github.com/viktor-cyber-tech/microsoft-sentinel-entra-id-detection) — Identity monitoring and detections using Microsoft security tooling.
 - [Windows Server 2022 Active Directory Lab](https://github.com/viktor-cyber-tech/windows-server-2022-ad-lab) — A home lab covering AD DS, DNS, DHCP, OUs, GPOs, and account security.
-- [AI Codex Local CTF](https://github.com/viktor-cyber-tech/aicodex-local-ctf) — An educational local-AI helper workflow for authorized CTF learning.
 
 ## 📫 How to reach me
 
