@@ -1,14 +1,14 @@
 # Hi, I’m Viktor 🐐👋
 
-**`Digital Ghostwire (Cyber/Tech/Dev/AI/Photographer)`**
+**`Digital Ghostwire | Cybersecurity Management Student @ MTSU | Offensive Security & Red Team Learner`**
 
-I’m a **Cybersecurity Management student at Middle Tennessee State University** and an aspiring **SOC / Blue Team security professional**.
+I’m a **Cybersecurity Management student at Middle Tennessee State University**.
 
 I enjoy building practical labs, investigating how systems work, and documenting what I learn—from identity monitoring and Active Directory administration to Linux and CTF practice.
 
 ## 🔭 What I’m working on
 
-- Building hands-on cybersecurity labs and documenting them on GitHub
+- Building hands-on cybersecurity labs and documenting them
 - Preparing for the **CompTIA Security+** certification
 - Developing SOC / Blue Team skills in alert analysis, threat detection, and incident response
 - Practicing Linux, networking, and CTF fundamentals
