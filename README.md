@@ -1,4 +1,6 @@
-# Hi, I’m Viktor 👋
+# Hi, I’m Viktor 🐐👋
+
+**`Digital Ghostwire (Cyber/Tech/Dev/AI/Photographer)`**
 
 I’m a **Cybersecurity Management student at Middle Tennessee State University** and an aspiring **SOC / Blue Team security professional**.
 
