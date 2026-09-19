@@ -55,7 +55,7 @@ I enjoy building practical labs, investigating how systems work, and documenting
 ## 📫 How to reach me
 
 <a href="https://www.linkedin.com/in/viktor-vinh-huynh/">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="32" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 I’m always glad to connect with cybersecurity students, IT professionals, and ethical-security communities.
