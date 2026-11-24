@@ -17,7 +17,7 @@ I enjoy building practical labs, investigating how systems work, and documenting
 
 ### National Cyber League (NCL) — Fall 2026 Individual Game
 
-<a href="https://cyberskyline.com/report/N7A2J0RWAGVW">
+<a href="reports/ncl/NCL_Fall_2026_Individual_Game_Scouting_Report.pdf">
   <img src="https://img.shields.io/badge/NCL_Fall_2026-214th_of_5,961_(Top_3%25)-1F6FEB?style=for-the-badge" alt="NCL Fall 2026: 214th of 5,961" />
 </a>
 
@@ -41,11 +41,11 @@ I enjoy building practical labs, investigating how systems work, and documenting
 
 **Top category percentiles:** Web Application Exploitation (99th) · Scanning & Reconnaissance (97th) · Enumeration & Exploitation (96th)
 
-🔗 [Verify the official scouting report](https://cyberskyline.com/report/N7A2J0RWAGVW)
+📄 [View the official scouting report (PDF)](reports/ncl/NCL_Fall_2026_Individual_Game_Scouting_Report.pdf) · <sub>Cyber Skyline verification ID: `N7A2J0RWAGVW`</sub>
 
 ### National Cyber League (NCL) — Fall 2026 Team Game
 
-<a href="https://cyberskyline.com/report/R8V683DWPMAR">
+<a href="reports/ncl/NCL_Fall_2026_Team_Game_Scouting_Report.pdf">
   <img src="https://img.shields.io/badge/NCL_Team_Fall_2026-61st_of_3,034_teams_(Top_2%25)-1F6FEB?style=for-the-badge" alt="NCL Fall 2026 Team Game: 61st of 3,034 teams" />
 </a>
 
@@ -70,7 +70,7 @@ Team **Root Access Rangers MTSU** · Standard Student Bracket
 - **100% completion in 8 of 9 categories:** Log Analysis, Network Traffic Analysis, Forensics, OSINT, Password Cracking, Scanning & Reconnaissance, Web Application Exploitation, Enumeration & Exploitation
 - **Top category percentiles:** Open Source Intelligence (99th) · Scanning & Reconnaissance (98th) · Password Cracking (98th)
 
-🔗 [Verify the official team scouting report](https://cyberskyline.com/report/R8V683DWPMAR)
+📄 [View the official team scouting report (PDF)](reports/ncl/NCL_Fall_2026_Team_Game_Scouting_Report.pdf) · <sub>Cyber Skyline verification ID: `R8V683DWPMAR`</sub>
 
 <sub>Per NCL Rules of Conduct, challenge solutions and write-ups are not published.</sub>
 
