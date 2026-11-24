@@ -57,6 +57,16 @@ Team **Root Access Rangers MTSU** · Standard Student Bracket
 
 <sub>Team averages: 1,427.3 pts · 67.5% accuracy · 52.8% completion</sub>
 
+**My contribution:** solved **66 of the team's 167 correct answers (~40%)**
+
+| Category | My solves |
+|---|:---:|
+| Log Analysis | 23 / 23 (100%) |
+| Scanning & Reconnaissance | 16 / 16 (100%) |
+| Password Cracking | 22 / 23 |
+| Forensics (Hard) | 3 / 4 |
+| Cryptography (Medium) | 2 |
+
 - **100% completion in 8 of 9 categories:** Log Analysis, Network Traffic Analysis, Forensics, OSINT, Password Cracking, Scanning & Reconnaissance, Web Application Exploitation, Enumeration & Exploitation
 - **Top category percentiles:** Open Source Intelligence (99th) · Scanning & Reconnaissance (98th) · Password Cracking (98th)
 
