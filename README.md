@@ -43,6 +43,25 @@ I enjoy building practical labs, investigating how systems work, and documenting
 
 🔗 [Verify the official scouting report](https://cyberskyline.com/report/N7A2J0RWAGVW)
 
+### National Cyber League (NCL) — Fall 2026 Team Game
+
+<a href="https://cyberskyline.com/report/R8V683DWPMAR">
+  <img src="https://img.shields.io/badge/NCL_Team_Fall_2026-61st_of_3,034_teams_(Top_2%25)-1F6FEB?style=for-the-badge" alt="NCL Fall 2026 Team Game: 61st of 3,034 teams" />
+</a>
+
+Team **Root Access Rangers MTSU** · Standard Student Bracket
+
+| Rank | Percentile | Score | Accuracy | Completion |
+|:---:|:---:|:---:|:---:|:---:|
+| **61st / 3,034** | **98th** | **2,990 / 3,000** | **91.3%** | **99.4%** |
+
+<sub>Team averages: 1,427.3 pts · 67.5% accuracy · 52.8% completion</sub>
+
+- **100% completion in 8 of 9 categories:** Log Analysis, Network Traffic Analysis, Forensics, OSINT, Password Cracking, Scanning & Reconnaissance, Web Application Exploitation, Enumeration & Exploitation
+- **Top category percentiles:** Open Source Intelligence (99th) · Scanning & Reconnaissance (98th) · Password Cracking (98th)
+
+🔗 [Verify the official team scouting report](https://cyberskyline.com/report/R8V683DWPMAR)
+
 <sub>Per NCL Rules of Conduct, challenge solutions and write-ups are not published.</sub>
 
 ## 🧰 Tools & technologies
