@@ -13,6 +13,38 @@ I enjoy building practical labs, investigating how systems work, and documenting
 - Developing offensive-security skills through authorized labs, CTFs, and safe testing environments
 - Practicing Linux, networking, and CTF fundamentals
 
+## 🏆 Competitions
+
+### National Cyber League (NCL) — Fall 2026 Individual Game
+
+<a href="https://cyberskyline.com/report/N7A2J0RWAGVW">
+  <img src="https://img.shields.io/badge/NCL_Fall_2026-214th_of_5,961_(Top_3%25)-1F6FEB?style=for-the-badge" alt="NCL Fall 2026: 214th of 5,961" />
+</a>
+
+| Rank | Percentile | Score | Accuracy | Completion |
+|:---:|:---:|:---:|:---:|:---:|
+| **214th / 5,961** | **97th** | **2,585 / 3,000** | **85.7%** | **92.0%** |
+
+<sub>Standard Student Bracket · Player averages: 1,181.6 pts · 74.8% accuracy · 46.2% completion</sub>
+
+| Category | Score | Accuracy | Completion |
+|---|:---:|:---:|:---:|
+| Log Analysis | 300 / 300 | 89.3% | 100% |
+| Open Source Intelligence | 390 / 390 | 90.9% | 100% |
+| Enumeration & Exploitation | 300 / 300 | 90.9% | 100% |
+| Cryptography | 290 / 375 | 100% | 93.3% |
+| Password Cracking | 275 / 335 | 100% | 76.2% |
+| Web Application Exploitation | 245 / 300 | 100% | 90.9% |
+| Network Traffic Analysis | 230 / 300 | 100% | 94.4% |
+| Scanning & Reconnaissance | 230 / 300 | 70.6% | 80.0% |
+| Forensics | 225 / 300 | 53.6% | 88.2% |
+
+**Top category percentiles:** Web Application Exploitation (99th) · Scanning & Reconnaissance (97th) · Enumeration & Exploitation (96th)
+
+🔗 [Verify the official scouting report](https://cyberskyline.com/report/N7A2J0RWAGVW)
+
+<sub>Per NCL Rules of Conduct, challenge solutions and write-ups are not published.</sub>
+
 ## 🧰 Tools & technologies
 
 <p>
