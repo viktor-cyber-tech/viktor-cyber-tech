@@ -41,7 +41,7 @@ I enjoy building practical labs, investigating how systems work, and documenting
 
 **Top category percentiles:** Web Application Exploitation (99th) · Scanning & Reconnaissance (97th) · Enumeration & Exploitation (96th)
 
-📄 [View the official scouting report (PDF)](https://github.com/viktor-cyber-tech/viktor-cyber-tech/blob/main/reports/ncl/NCL_Fall_2026_Individual_Game_Scouting_Report.pdf) · <sub>Cyber Skyline verification ID: `N7A2J0RWAGVW`</sub>
+📄 [View the official scouting report (PDF)](https://github.com/viktor-cyber-tech/viktor-cyber-tech/blob/main/reports/ncl/NCL_Fall_2026_Individual_Game_Scouting_Report.pdf) · <sub>Cyber Skyline verification ID: `N7A2J0RWAGVW`</sub> · 🎖️ [Certificate of participation](https://github.com/viktor-cyber-tech/viktor-cyber-tech/blob/main/reports/ncl/NCL_Fall_2026_Individual_Game_Certificate.pdf)
 
 ### National Cyber League (NCL) — Fall 2026 Team Game
 
@@ -70,9 +70,26 @@ Team **Root Access Rangers MTSU** · Standard Student Bracket
 - **100% completion in 8 of 9 categories:** Log Analysis, Network Traffic Analysis, Forensics, OSINT, Password Cracking, Scanning & Reconnaissance, Web Application Exploitation, Enumeration & Exploitation
 - **Top category percentiles:** Open Source Intelligence (99th) · Scanning & Reconnaissance (98th) · Password Cracking (98th)
 
-📄 [View the official team scouting report (PDF)](https://github.com/viktor-cyber-tech/viktor-cyber-tech/blob/main/reports/ncl/NCL_Fall_2026_Team_Game_Scouting_Report.pdf) · <sub>Cyber Skyline verification ID: `R8V683DWPMAR`</sub>
+📄 [View the official team scouting report (PDF)](https://github.com/viktor-cyber-tech/viktor-cyber-tech/blob/main/reports/ncl/NCL_Fall_2026_Team_Game_Scouting_Report.pdf) · <sub>Cyber Skyline verification ID: `R8V683DWPMAR`</sub> · 🎖️ [Certificate of participation](https://github.com/viktor-cyber-tech/viktor-cyber-tech/blob/main/reports/ncl/NCL_Fall_2026_Team_Game_Certificate.pdf)
 
 <sub>Per NCL Rules of Conduct, challenge solutions and write-ups are not published.</sub>
+
+### Into the Storm — Incident Response Competition (Oct 2026, Nashville)
+
+Team **Phish & Chips, MTSU** · Hosted by Counterattack Cyber Solutions, LLC
+
+- Completed a NIST-based incident response scenario covering detection & analysis, containment, eradication, and recovery
+- Incident analysis included malware analysis, network-level activity, user activity, and PowerShell analysis, plus OSINT
+
+📄 [View certificate (PDF)](https://github.com/viktor-cyber-tech/viktor-cyber-tech/blob/main/certificates/Into_The_Storm_Incident_Response_Competition_2026.pdf)
+
+## 📜 Certifications
+
+| Certification | Issuer | Issued | Proof |
+|---|---|:---:|---|
+| Google Cybersecurity Professional Certificate | Google / Coursera | Mar 2026 | [Credly](https://www.credly.com/go/r4xrdP47) · [PDF](https://github.com/viktor-cyber-tech/viktor-cyber-tech/blob/main/certificates/Google_Cybersecurity_Professional_Certificate.pdf) |
+| Google IT Support Professional Certificate | Google / Coursera | Nov 2025 | [Credly](https://www.credly.com/go/9afpfpWf) · [PDF](https://github.com/viktor-cyber-tech/viktor-cyber-tech/blob/main/certificates/Google_IT_Support_Professional_Certificate.pdf) |
+| CompTIA Security+ (SY0-701) | CompTIA | *In progress* | — |
 
 ## 🧰 Tools & technologies
 
