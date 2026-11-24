@@ -1,17 +1,40 @@
 # Hi, I’m Viktor 🐐👋
 
-**`Digital Ghostwire | Cybersecurity Management Student @ MTSU | Offensive Security & Red Team Learner`**
+**`Digital Ghostwire | Aspiring SOC Analyst | Detection Engineering · Microsoft Sentinel · Active Directory`**
 
-I’m a **Cybersecurity Management student at Middle Tennessee State University**.
+I’m **Viktor (Phuong Vinh) Huynh**, a **Cybersecurity Management student at Middle Tennessee State University** (B.S., expected Dec 2027) and an IT lab technician at Nashville State Community College.
 
-I enjoy building practical labs, investigating how systems work, and documenting what I learn—from identity monitoring and Active Directory administration to Linux and CTF practice.
+I build blue-team home labs, write detections, and document what I find, from identity monitoring in Microsoft Sentinel and Active Directory administration to log analysis and incident response.
 
 ## 🔭 What I’m working on
 
-- Building hands-on cybersecurity labs and documenting them
-- Preparing for the **CompTIA Security+** certification
-- Developing offensive-security skills through authorized labs, CTFs, and safe testing environments
-- Practicing Linux, networking, and CTF fundamentals
+- Building attack → detection labs that pair Active Directory attacks with Microsoft Sentinel (KQL) detections mapped to MITRE ATT&CK
+- Preparing for **CompTIA Security+ (SY0-701)**, then CySA+
+- Sharpening log analysis, network traffic analysis, and forensics through NCL and incident response competitions
+- Practicing Linux, networking, and scripting in my home lab
+
+## 🗂️ Featured projects
+
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <a href="https://github.com/viktor-cyber-tech/microsoft-sentinel-entra-id-detection"><b>Sentinel & Entra ID Detection Lab</b></a><br />
+      <sub>KQL analytics rule detecting repeated failed Entra ID sign-ins (MITRE T1110.001), with triage docs and incident walkthrough.</sub>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://github.com/viktor-cyber-tech/windows-server-2022-ad-lab"><b>Windows Server 2022 AD Lab</b></a><br />
+      <sub>Home lab covering AD DS, DNS, DHCP, OUs, GPOs, and account security.</sub>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://github.com/viktor-cyber-tech/kali-linux-learning-lab"><b>Kali Linux Learning Lab</b></a><br />
+      <sub>Hands-on Linux, networking, tools, CTF practice, scripts, and troubleshooting.</sub>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://github.com/viktor-cyber-tech/local-security-ai-workbench"><b>Local Security AI Workbench</b></a><br />
+      <sub>Offline-first security and CTF assistant on Ollama (Qwen2.5-Coder 14B) with Kali and PowerShell workflows.</sub>
+    </td>
+  </tr>
+</table>
 
 ## 🏆 Competitions
 
@@ -96,39 +119,19 @@ Team **Phish & Chips, MTSU** · Hosted by Counterattack Cyber Solutions, LLC
 <p>
   <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Sentinel" />
   <img src="https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Entra ID" />
+  <img src="https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="KQL" />
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-C8102E?style=flat-square" alt="MITRE ATT&CK" />
   <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows Server" />
   <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Active Directory" />
   <img src="https://img.shields.io/badge/DNS_%26_DHCP-005571?style=flat-square" alt="DNS and DHCP" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Zeek-2E3B4E?style=flat-square" alt="Zeek" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" alt="VirtualBox" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
 </p>
-
-## 🗂️ Featured projects
-
-<table>
-  <tr>
-    <td width="25%" align="center">
-      <a href="https://github.com/viktor-cyber-tech/aicodex-local-ctf"><b>AI Codex Local CTF</b></a><br />
-      <sub>Offline local-AI helper workflow for authorized CTF learning.</sub>
-    </td>
-    <td width="25%" align="center">
-      <a href="https://github.com/viktor-cyber-tech/kali-linux-learning-lab"><b>Kali Linux Learning Lab</b></a><br />
-      <sub>Hands-on Linux, networking, tools, CTF practice, scripts, and troubleshooting.</sub>
-    </td>
-    <td width="25%" align="center">
-      <a href="https://github.com/viktor-cyber-tech/windows-server-2022-ad-lab"><b>Windows Server 2022 AD Lab</b></a><br />
-      <sub>Home lab covering AD DS, DNS, DHCP, OUs, GPOs, and account security.</sub>
-    </td>
-    <td width="25%" align="center">
-      <a href="https://github.com/viktor-cyber-tech/microsoft-sentinel-entra-id-detection"><b>Sentinel & Entra ID Detection Lab</b></a><br />
-      <sub>Identity monitoring and detections using Microsoft security tooling.</sub>
-    </td>
-  </tr>
-</table>
 
 ## 📫 How to reach me
 
@@ -138,4 +141,4 @@ Team **Phish & Chips, MTSU** · Hosted by Counterattack Cyber Solutions, LLC
 
 I’m always glad to connect with cybersecurity students, IT professionals, and ethical-security communities.
 
-> 🛡️ Building skills one authorized lab, CTF, and investigation at a time.
+> 🛡️ Building blue-team skills one lab, detection, and investigation at a time.
